@@ -52,6 +52,4 @@ For the command sequence `MSMMEMM`, the robot ends at `(3, 3, 'E')`.
 python robot_movement.py
 ```
 
-## License
 
-This project is licensed under the MIT License.
